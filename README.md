@@ -2,14 +2,13 @@
 
 🌟 **Aspiring Software Developer** | 💻 **Third-Year Computer Science Student**
 
-Welcome to my GitHub! I'm Roei Mesilaty, a highly motivated third-year Computer Science student at Bar-Ilan University, with a GPA of 85+. I thrive on tackling challenging problems with creativity and dedication.
+Welcome to my GitHub! I'm Chen Goizman, a highly motivated third-year Computer Science student at Bar-Ilan University, with a GPA of 80. I thrive on tackling challenging problems with creativity and dedication.
 
 ---
 
 ## 🌐 About Me
 
 - 🎓 **Education**: Pursuing a Bachelor's degree in Computer Science, focusing on Algorithms, Programming, Machine Learning and Mathematical Foundations.
-- 🛡 **Certifications**: Completed Google Cybersecurity Certificate, gaining expertise in `Python`, `Linux`, `SQL`, and `SIEM tools`.
 
 ---
 
@@ -30,7 +29,6 @@ Welcome to my GitHub! I'm Roei Mesilaty, a highly motivated third-year Computer 
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white)
 
 ---
 
