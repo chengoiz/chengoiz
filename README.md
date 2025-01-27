@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm Chen Goizman, a highly motivated third-year Computer S
 ## 📚 Featured Projects
 
 - **FooBook**  
-  A full-stack social media platform with React (Web) and Android Studio (Mobile), backed by MongoDB. Includes features like post creation, commenting, and friend management. Designed for a seamless user experience.
+  A full-stack social media platform Android Studio (Mobile), backed by MongoDB. Includes features like post creation, commenting, and friend management. Designed for a seamless user experience.
 
 - **Arkanoid Game**  
   A classic game built in Java, showcasing object-oriented principles with multiple levels for flexible gameplay mechanics.
@@ -44,15 +44,15 @@ Welcome to my GitHub! I'm Chen Goizman, a highly motivated third-year Computer S
 
 ## 📫 Let's Connect
 
-- 📧 Email: [RoeiM442@gmail.com](mailto:RoeiM442@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/roei-mesilaty](https://linkedin.com/in/roei-mesilaty)  
+- 📧 Email: [chengoizman@gmail.com](mailto:chengoizman@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/chen-goizman](https://linkedin.com/in/chen-goizman)  
 
 ---
 
 ## ⚡ Fun Facts
 
 - 🤝 Experienced in teamwork and leadership through academic and military experience.  
-- 🌟 Fluent in **Hebrew** (Native) and **English**.  
+- 🌟 Fluent in **Hebrew** (Native) , **English** and **Russian**.  
 - 🔧 Passionate about learning new tools, frameworks, and technologies.
 
 ---
