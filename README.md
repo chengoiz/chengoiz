@@ -37,9 +37,6 @@ Welcome to my GitHub! I'm Chen Goizman, a highly motivated third-year Computer S
 - **FooBook**  
   A full-stack social media platform Android Studio (Mobile), backed by MongoDB. Includes features like post creation, commenting, and friend management. Designed for a seamless user experience.
 
-- **Arkanoid Game**  
-  A classic game built in Java, showcasing object-oriented principles with multiple levels for flexible gameplay mechanics.
-
 ---
 
 ## 📫 Let's Connect
