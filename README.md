@@ -1,56 +1,69 @@
 # 👋 Hi, I'm Chen Goizman
 
-🌟 **Aspiring Software Developer** | 💻 **Third-Year Computer Science Student**
+🌟 **Full‑Stack Developer** | 💻 **Fourth‑Year Computer Science Student**
 
-Welcome to my GitHub! I'm Chen Goizman, a highly motivated third-year Computer Science student at Bar-Ilan University, with a GPA of 80. I thrive on tackling challenging problems with creativity and dedication.
-
----
-
-## 🌐 About Me
-
-- 🎓 **Education**: Pursuing a Bachelor's degree in Computer Science, focusing on Algorithms, Programming, Machine Learning and Mathematical Foundations.
+I'm a motivated fourth‑year computer science student at Bar‑Ilan University with a GPA of 81, participating in the Atidim for Industry excellence program. I build full‑stack systems from the ground up and expect to complete my degree in March 2026.
 
 ---
 
 ## 🛠 Skills
 
 ### Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Assembly](https://img.shields.io/badge/Assembly-%2300599C.svg?style=flat&logo=assembly&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=flat&logo=gnu-bash&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-00599C?style=flat&logo=assembly&logoColor=white)
 
 ### Frameworks & Tools
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=nodedotjs&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
 ## 📚 Featured Projects
 
-- **FooBook**  
-  A full-stack social media platform Android Studio (Mobile), backed by MongoDB. Includes features like post creation, commenting, and friend management. Designed for a seamless user experience.
+### FooBook
+A full‑stack social media platform built with React and Node.js, with a companion Android app written in Java using the MVVM pattern. The backend uses Express and MongoDB and exposes secure REST APIs. Users can create posts, comment and manage friends.
+
+### AI‑Assisted X‑Ray Inspection App
+A cross‑platform desktop application (currently in development) for managing and analysing aircraft component X‑ray images. Built using Electron, React, TypeScript, Node.js and MongoDB, it provides an image editor, annotation tools and a structured inspection workflow.
 
 ---
 
-## 📫 Let's Connect
+## 🎓 Education
 
-- 📧 Email: [chengoizman@gmail.com](mailto:chengoizman@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/chen-goizman](https://linkedin.com/in/chen-goizman)  
-
----
-
-## ⚡ Fun Facts
-
-- 🤝 Experienced in teamwork and leadership through academic and military experience.  
-- 🌟 Fluent in **Hebrew** (Native) , **English** and **Russian**.  
-- 🔧 Passionate about learning new tools, frameworks, and technologies.
+- **B.Sc. in Computer Science**, Bar‑Ilan University (2022–2025) — GPA 81  
+  - Key courses: OOP (Java), Operating Systems, Advanced System Programming, Algorithms, Machine Learning, Communication Networks  
+  - Expected graduation: March 2026
 
 ---
 
-Feel free to explore my repositories and projects. I'm always open to feedback, collaboration, and exciting opportunities! 🚀
+## 🏅 Awards & Volunteering
+
+- Atidim for Industry scholarship recipient  
+- Acted as deputy company commander during military service, earning a certificate of excellence  
+- Volunteered with the Foundation for Holocaust Survivors, providing ongoing support to a solitary survivor  
+
+---
+
+## 🧠 Languages
+
+Hebrew (native), English (fluent), Russian (basic)
+
+---
+
+## 📫 Contact
+
+Feel free to reach out via [email](mailto:chengoizman@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/chen-goizman).
+
+---
+
+Feel free to explore my repositories and projects. I'm always open to feedback, collaboration and exciting opportunities! 🚀
