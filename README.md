@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Chen Goizman
+# Hi, I'm Chen Goizman
 
-🌟 **Full‑Stack Developer** | 💻 **Fourth‑Year Computer Science Student**
+**Fourth‑Year Computer Science Student**
 
-I'm a motivated fourth‑year computer science student at Bar‑Ilan University with a GPA of 81, participating in the Atidim for Industry excellence program. I build full‑stack systems from the ground up and expect to complete my degree in March 2026.
+I'm a motivated fourth‑year computer science student at Bar‑Ilan University with a GPA of 81, participating in the Atidim for Industry excellence program. 
+I build full‑stack systems from the ground up and expect to complete my degree in March 2026.
+Looking to apply my skills in tech development. seeking a software engineer position.
 
 ---
 
@@ -41,7 +43,7 @@ A cross‑platform desktop application (currently in development) for managing a
 ## 🎓 Education
 
 - **B.Sc. in Computer Science**, Bar‑Ilan University (2022–2025) — GPA 81  
-  - Key courses: OOP (Java), Operating Systems, Advanced System Programming, Algorithms, Machine Learning, Communication Networks  
+  - Key courses: OOP (Java), Operating Systems, Advanced System Programming, Algorithms, Machine Learning, Communication Networks, Cyber.
   - Expected graduation: March 2026
 
 ---
