@@ -2,9 +2,9 @@
 
 **Fourth‑Year Computer Science Student**
 
-I'm a motivated fourth‑year computer science student at Bar‑Ilan University with a GPA of 81, participating in the Atidim for Industry excellence program. 
+I'm a fourth‑year computer science student at Bar‑Ilan University with a GPA of 82, participating in the Atidim for Industry excellence program. 
 I build full‑stack systems from the ground up and expect to complete my degree in March 2026.
-Looking to apply my skills in tech development. seeking a software engineer position.
+Seeking for a full-time junior/entry role where I can contribute and level up quickly.
 
 ---
 
