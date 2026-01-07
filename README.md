@@ -2,7 +2,7 @@
 
 **Fourth‑Year Computer Science Student**
 
-I'm a fourth‑year computer science student at Bar‑Ilan University with a GPA of 82, participating in the Atidim for Industry excellence program. 
+I'm a fourth‑year computer science student at Bar‑Ilan University with a GPA of 83, participating in the Atidim for Industry excellence program. 
 I build full‑stack systems from the ground up and expect to complete my degree in March 2026.
 Seeking for a full-time junior/entry role where I can contribute and level up quickly.
 
@@ -42,7 +42,7 @@ A cross‑platform desktop application (currently in development) for managing a
 
 ## 🎓 Education
 
-- **B.Sc. in Computer Science**, Bar‑Ilan University (2022–2025) — GPA 81  
+- **B.Sc. in Computer Science**, Bar‑Ilan University (2022–2026) — GPA 83  
   - Key courses: OOP (Java), Operating Systems, Advanced System Programming, Algorithms, Machine Learning, Communication Networks, Cyber.
   - Expected graduation: March 2026
 
